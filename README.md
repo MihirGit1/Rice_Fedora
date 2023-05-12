@@ -1,7 +1,9 @@
 # Rice_Fedora
 
 Shell theme -> Marble-blue-dark (Marble Shell theme pack)
+
 Icons -> Reversal-Dark (Reversal icon pack)
+
 Cursor -> Bibata-Modern-Classic (Bibata Cursor Pack)
 
 Extensions:
