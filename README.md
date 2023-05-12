@@ -12,3 +12,6 @@ Extensions:
 
 - Install gnome-tweaks, enable Weekday
 - Change Arcmenu button icon to your liking through arcmenu settings
+
+
+Wallpaper -> https://github.com/MihirGit1/Rice_Fedora/blob/main/mountain.jpg
